@@ -1,2 +1,5 @@
 # veiculos2
-three child classes inheriting from parent class and printing custom messages
+a project with five classes
+
+one is mother class,<br/>
+three are child classes and one executable
